@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1497105492404234}
+  m_IsPrefabParent: 1
+--- !u!1 &1497105492404234
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4521019686534664}
+  - component: {fileID: 33391519761038084}
+  - component: {fileID: 64693129545333840}
+  - component: {fileID: 23180619458384688}
+  - component: {fileID: 114307281490258866}
+  m_Layer: 0
+  m_Name: FX_Succes_Down
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4521019686534664
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1497105492404234}
+  m_LocalRotation: {x: 0, y: -0.7071068, z: 0.7071068, w: 0}
+  m_LocalPosition: {x: -0.038, y: 0.688, z: -0.185}
+  m_LocalScale: {x: 0.06690729, y: 0.04305734, z: 0.07616586}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -270, y: 0, z: -180}
+--- !u!23 &23180619458384688
+MeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1497105492404234}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_Materials:
+  - {fileID: 2100000, guid: c127d3e3ac4dc0641aab5543fac87da9, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 1
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!33 &33391519761038084
+MeshFilter:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1497105492404234}
+  m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!64 &64693129545333840
+MeshCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1497105492404234}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_SkinWidth: 0.01
+  m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &114307281490258866
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1497105492404234}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91edf3c5d40935045bc1d74636015911, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fps: 30
+  frames:
+  - {fileID: 2800000, guid: dadba2705d8722e4ab22b7828fe7999c, type: 3}
+  - {fileID: 2800000, guid: cfa95e5d3db9bc04488d6d63fa813ea0, type: 3}
+  - {fileID: 2800000, guid: 801d0de4117e01a4dbed1c7c7860bb52, type: 3}
+  - {fileID: 2800000, guid: 1f043f222dfd6494d888b71a15a44c9f, type: 3}
+  - {fileID: 2800000, guid: 4a33d909eaa088a4681ddebc7f0a45f1, type: 3}
+  - {fileID: 2800000, guid: f3e57d793b6cb1f44811314c890c13d3, type: 3}
+  - {fileID: 2800000, guid: 1dbde8cc1c82bc744aaf2634ea0285cc, type: 3}
+  - {fileID: 2800000, guid: 4c683eec7c252ab4ca543af77526e109, type: 3}
+  - {fileID: 2800000, guid: 63d4e97ba1aad0647b83de0508e261e8, type: 3}
+  - {fileID: 2800000, guid: be12a754bf5268d4892ab2badc9db7bb, type: 3}
+  - {fileID: 2800000, guid: 0bd8736cf8fadbc48933792a848aea1e, type: 3}
+  - {fileID: 2800000, guid: bb802702a9dd11e45b40823e6dd85f27, type: 3}

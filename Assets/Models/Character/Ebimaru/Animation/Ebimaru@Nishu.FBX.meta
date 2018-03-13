@@ -1,0 +1,413 @@
+fileFormatVersion: 2
+guid: f7cdf636ade0a6b4ca548355327fc61a
+timeCreated: 1519026967
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001 FrontFlab
+    100004: Bip001 FrontFlab02
+    100006: Bip001 FrontFlab03
+    100008: Bip001 FrontFlapL
+    100010: Bip001 FrontFlapL02
+    100012: Bip001 FrontFlapL03
+    100014: Bip001 L Calf
+    100016: Bip001 L Foot
+    100018: Bip001 L Thigh
+    100020: Bip001 L Toe0
+    100022: Bip001 Pelvis
+    100024: Bip001 R Calf
+    100026: Bip001 R Foot
+    100028: Bip001 R Thigh
+    100030: Bip001 R Toe0
+    100032: Bip001 ReartFlapR
+    100034: Bip001 ReartFlapR02
+    100036: Bip001 ReartFlapR03
+    100038: Bip001 Spine
+    100040: //RootNode
+    100042: Bip001 Hat
+    100044: Bip001 Head
+    100046: Bip001 L Clavicle
+    100048: Bip001 L Finger0
+    100050: Bip001 L Finger01
+    100052: Bip001 L Finger02
+    100054: Bip001 L Finger1
+    100056: Bip001 L Finger11
+    100058: Bip001 L Finger12
+    100060: Bip001 L Finger2
+    100062: Bip001 L Finger21
+    100064: Bip001 L Finger22
+    100066: Bip001 L Finger3
+    100068: Bip001 L Finger31
+    100070: Bip001 L Finger32
+    100072: Bip001 L Forearm
+    100074: Bip001 L Hand
+    100076: Bip001 L UpperArm
+    100078: Bip001 Mustache01
+    100080: Bip001 Mustache0102
+    100082: Bip001 Mustache0103
+    100084: Bip001 Mustache02
+    100086: Bip001 Mustache0202
+    100088: Bip001 Mustache03
+    100090: Bip001 Mustache0302
+    100092: Bip001 Neck
+    100094: Bip001 R Clavicle
+    100096: Bip001 R Finger0
+    100098: Bip001 R Finger01
+    100100: Bip001 R Finger02
+    100102: Bip001 R Finger1
+    100104: Bip001 R Finger11
+    100106: Bip001 R Finger12
+    100108: Bip001 R Finger2
+    100110: Bip001 R Finger21
+    100112: Bip001 R Finger22
+    100114: Bip001 R Finger3
+    100116: Bip001 R Finger31
+    100118: Bip001 R Finger32
+    100120: Bip001 R Forearm
+    100122: Bip001 R Hand
+    100124: Bip001 R UpperArm
+    100126: Bip001 Spine1
+    100128: Bip001 TopFrontFlapL
+    100130: Bip001 TopFrontFlapL02
+    100132: Bip001 TopFrontFlapL03
+    100134: Bip001 TopFrontFlapR
+    100136: Bip001 TopFrontFlapR02
+    100138: Bip001 TopFrontFlapR03
+    100140: Bip001 TopRearFlap
+    100142: Bip001 TopRearFlap02
+    100144: Bip001 TopRearFlap03
+    100146: Bip001 Weapon_L
+    100148: Bip001 Weapon_R
+    400000: Bip001
+    400002: Bip001 FrontFlab
+    400004: Bip001 FrontFlab02
+    400006: Bip001 FrontFlab03
+    400008: Bip001 FrontFlapL
+    400010: Bip001 FrontFlapL02
+    400012: Bip001 FrontFlapL03
+    400014: Bip001 L Calf
+    400016: Bip001 L Foot
+    400018: Bip001 L Thigh
+    400020: Bip001 L Toe0
+    400022: Bip001 Pelvis
+    400024: Bip001 R Calf
+    400026: Bip001 R Foot
+    400028: Bip001 R Thigh
+    400030: Bip001 R Toe0
+    400032: Bip001 ReartFlapR
+    400034: Bip001 ReartFlapR02
+    400036: Bip001 ReartFlapR03
+    400038: Bip001 Spine
+    400040: //RootNode
+    400042: Bip001 Hat
+    400044: Bip001 Head
+    400046: Bip001 L Clavicle
+    400048: Bip001 L Finger0
+    400050: Bip001 L Finger01
+    400052: Bip001 L Finger02
+    400054: Bip001 L Finger1
+    400056: Bip001 L Finger11
+    400058: Bip001 L Finger12
+    400060: Bip001 L Finger2
+    400062: Bip001 L Finger21
+    400064: Bip001 L Finger22
+    400066: Bip001 L Finger3
+    400068: Bip001 L Finger31
+    400070: Bip001 L Finger32
+    400072: Bip001 L Forearm
+    400074: Bip001 L Hand
+    400076: Bip001 L UpperArm
+    400078: Bip001 Mustache01
+    400080: Bip001 Mustache0102
+    400082: Bip001 Mustache0103
+    400084: Bip001 Mustache02
+    400086: Bip001 Mustache0202
+    400088: Bip001 Mustache03
+    400090: Bip001 Mustache0302
+    400092: Bip001 Neck
+    400094: Bip001 R Clavicle
+    400096: Bip001 R Finger0
+    400098: Bip001 R Finger01
+    400100: Bip001 R Finger02
+    400102: Bip001 R Finger1
+    400104: Bip001 R Finger11
+    400106: Bip001 R Finger12
+    400108: Bip001 R Finger2
+    400110: Bip001 R Finger21
+    400112: Bip001 R Finger22
+    400114: Bip001 R Finger3
+    400116: Bip001 R Finger31
+    400118: Bip001 R Finger32
+    400120: Bip001 R Forearm
+    400122: Bip001 R Hand
+    400124: Bip001 R UpperArm
+    400126: Bip001 Spine1
+    400128: Bip001 TopFrontFlapL
+    400130: Bip001 TopFrontFlapL02
+    400132: Bip001 TopFrontFlapL03
+    400134: Bip001 TopFrontFlapR
+    400136: Bip001 TopFrontFlapR02
+    400138: Bip001 TopFrontFlapR03
+    400140: Bip001 TopRearFlap
+    400142: Bip001 TopRearFlap02
+    400144: Bip001 TopRearFlap03
+    400146: Bip001 Weapon_L
+    400148: Bip001 Weapon_R
+    7400000: Nishu_Start
+    7400002: Nishu_Idle
+    7400004: Nishu_Up
+    7400006: Nishu_Down
+    7400008: Nishu_Right
+    7400010: Nishu_Left
+    9500000: //RootNode
+    11100000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Nishu_Start
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Nishu_Idle
+      takeName: Take 001
+      firstFrame: 10
+      lastFrame: 30
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Nishu_Up
+      takeName: Take 001
+      firstFrame: 40
+      lastFrame: 55
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Nishu_Down
+      takeName: Take 001
+      firstFrame: 65
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Nishu_Right
+      takeName: Take 001
+      firstFrame: 115
+      lastFrame: 130
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Nishu_Left
+      takeName: Take 001
+      firstFrame: 90
+      lastFrame: 105
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

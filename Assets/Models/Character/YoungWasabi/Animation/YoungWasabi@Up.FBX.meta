@@ -70,6 +70,25 @@ ModelImporter:
     100124: Bip001 Weapon_L
     100126: Bip001 Weapon_R
     100128: //RootNode
+    100130: Bip001 FlapLNub
+    100132: Bip001 FlapRNub
+    100134: Bip001 HeadNub
+    100136: Bip001 L Finger0Nub
+    100138: Bip001 L Finger1Nub
+    100140: Bip001 L Finger2Nub
+    100142: Bip001 L Finger3Nub
+    100144: Bip001 L Toe0Nub
+    100146: Bip001 Muffler01Nub
+    100148: Bip001 Muffler02Nub
+    100150: Bip001 Ponytail1Nub
+    100152: Bip001 R Finger0Nub
+    100154: Bip001 R Finger1Nub
+    100156: Bip001 R Finger2Nub
+    100158: Bip001 R Finger3Nub
+    100160: Bip001 R Toe0Nub
+    100162: Bip001 RearFlapNub
+    100164: Bip001 sheathNub
+    100166: YoungWasabi
     400000: Bip001
     400002: Bip001 FlapL
     400004: Bip001 FlapR
@@ -135,9 +154,30 @@ ModelImporter:
     400124: Bip001 Weapon_L
     400126: Bip001 Weapon_R
     400128: //RootNode
+    400130: Bip001 FlapLNub
+    400132: Bip001 FlapRNub
+    400134: Bip001 HeadNub
+    400136: Bip001 L Finger0Nub
+    400138: Bip001 L Finger1Nub
+    400140: Bip001 L Finger2Nub
+    400142: Bip001 L Finger3Nub
+    400144: Bip001 L Toe0Nub
+    400146: Bip001 Muffler01Nub
+    400148: Bip001 Muffler02Nub
+    400150: Bip001 Ponytail1Nub
+    400152: Bip001 R Finger0Nub
+    400154: Bip001 R Finger1Nub
+    400156: Bip001 R Finger2Nub
+    400158: Bip001 R Finger3Nub
+    400160: Bip001 R Toe0Nub
+    400162: Bip001 RearFlapNub
+    400164: Bip001 sheathNub
+    400166: YoungWasabi
+    4300000: YoungWasabi
     7400000: Take 001
     9500000: //RootNode
     11100000: //RootNode
+    13700000: YoungWasabi
   externalObjects: {}
   materials:
     importMaterials: 0

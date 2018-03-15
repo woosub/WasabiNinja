@@ -127,7 +127,7 @@ public class UIMgr : MonoBehaviour {
 
     public void GoToMain()
     {
-        UnityEngine.SceneManagement.SceneManager.LoadScene(1);
+        UnityEngine.SceneManagement.SceneManager.LoadScene(UnityEngine.SceneManagement.SceneManager.GetActiveScene().name);
     }
 
     public void Stamina(float val)

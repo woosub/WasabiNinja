@@ -99,6 +99,7 @@ ModelImporter:
     100182: //RootNode
     100184: Ebimaru_Eye
     100186: Ebimaru_Mouth
+    100188: Object010
     400000: Bip001
     400002: Bip001 Footsteps
     400004: Bip001 FrontFlab
@@ -193,12 +194,17 @@ ModelImporter:
     400182: //RootNode
     400184: Ebimaru_Eye
     400186: Ebimaru_Mouth
+    400188: Object010
     2100000: 03 - Default
     2100002: Eye
     2100004: No Name
     2100006: Ebimaru
     2300000: Box001
+    2300002: Ebimaru_Eye
+    2300004: Ebimaru_Mouth
     3300000: Box001
+    3300002: Ebimaru_Eye
+    3300004: Ebimaru_Mouth
     4300000: Ebimaru_Mouth
     4300002: Ebimaru_Eye
     4300004: Box001

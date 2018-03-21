@@ -103,6 +103,8 @@ ModelImporter:
     100190: Bip001 TopFrontFlapLNub
     100192: Bip001 TopFrontFlapRNub
     100194: Bip001 TopRearFlapNub
+    100196: Box001
+    100198: Object010
     400000: Bip001
     400002: Bip001 Footsteps
     400004: Bip001 FrontFlab
@@ -201,7 +203,12 @@ ModelImporter:
     400190: Bip001 TopFrontFlapLNub
     400192: Bip001 TopFrontFlapRNub
     400194: Bip001 TopRearFlapNub
+    400196: Box001
+    400198: Object010
+    2300000: Box001
+    3300000: Box001
     4300000: Ebimaru
+    4300002: Box001
     7400000: Take 001
     9500000: //RootNode
     11100000: //RootNode

@@ -80,6 +80,26 @@ ModelImporter:
     100144: Bip001 Weapon_L
     100146: Bip001 Weapon_R
     100148: //RootNode
+    100150: Bip001 Footsteps
+    100152: Bip001 FrontFlabNub
+    100154: Bip001 FrontFlapLNub
+    100156: Bip001 HeadNub
+    100158: Bip001 L Finger0Nub
+    100160: Bip001 L Finger1Nub
+    100162: Bip001 L Finger2Nub
+    100164: Bip001 L Finger3Nub
+    100166: Bip001 L Toe0Nub
+    100168: Bip001 R Finger0Nub
+    100170: Bip001 R Finger1Nub
+    100172: Bip001 R Finger2Nub
+    100174: Bip001 R Finger3Nub
+    100176: Bip001 R Toe0Nub
+    100178: Bip001 ReartFlapRNub
+    100180: Box001
+    100182: Ebimaru
+    100184: Ebimaru_Eye
+    100186: Ebimaru_Mouth
+    100188: Object010
     400000: Bip001
     400002: Bip001 FrontFlab
     400004: Bip001 FrontFlab02
@@ -155,9 +175,40 @@ ModelImporter:
     400144: Bip001 Weapon_L
     400146: Bip001 Weapon_R
     400148: //RootNode
+    400150: Bip001 Footsteps
+    400152: Bip001 FrontFlabNub
+    400154: Bip001 FrontFlapLNub
+    400156: Bip001 HeadNub
+    400158: Bip001 L Finger0Nub
+    400160: Bip001 L Finger1Nub
+    400162: Bip001 L Finger2Nub
+    400164: Bip001 L Finger3Nub
+    400166: Bip001 L Toe0Nub
+    400168: Bip001 R Finger0Nub
+    400170: Bip001 R Finger1Nub
+    400172: Bip001 R Finger2Nub
+    400174: Bip001 R Finger3Nub
+    400176: Bip001 R Toe0Nub
+    400178: Bip001 ReartFlapRNub
+    400180: Box001
+    400182: Ebimaru
+    400184: Ebimaru_Eye
+    400186: Ebimaru_Mouth
+    400188: Object010
+    2300000: Box001
+    2300002: Ebimaru_Eye
+    2300004: Ebimaru_Mouth
+    3300000: Box001
+    3300002: Ebimaru_Eye
+    3300004: Ebimaru_Mouth
+    4300000: Ebimaru_Mouth
+    4300002: Ebimaru_Eye
+    4300004: Box001
+    4300006: Ebimaru
     7400000: Failed
     9500000: //RootNode
     11100000: //RootNode
+    13700000: Ebimaru
   externalObjects: {}
   materials:
     importMaterials: 0

@@ -99,6 +99,14 @@ ModelImporter:
     100182: //RootNode
     100184: Ebimaru_Eye
     100186: Ebimaru_Mouth
+    100188: Bip001 HatNub
+    100190: Bip001 Mustache01Nub
+    100192: Bip001 Mustache02Nub
+    100194: Bip001 Mustache03Nub
+    100196: Bip001 TopFrontFlapLNub
+    100198: Bip001 TopFrontFlapRNub
+    100200: Bip001 TopRearFlapNub
+    100202: Object010
     400000: Bip001
     400002: Bip001 Footsteps
     400004: Bip001 FrontFlab
@@ -193,8 +201,20 @@ ModelImporter:
     400182: //RootNode
     400184: Ebimaru_Eye
     400186: Ebimaru_Mouth
+    400188: Bip001 HatNub
+    400190: Bip001 Mustache01Nub
+    400192: Bip001 Mustache02Nub
+    400194: Bip001 Mustache03Nub
+    400196: Bip001 TopFrontFlapLNub
+    400198: Bip001 TopFrontFlapRNub
+    400200: Bip001 TopRearFlapNub
+    400202: Object010
     2300000: Box001
+    2300002: Ebimaru_Eye
+    2300004: Ebimaru_Mouth
     3300000: Box001
+    3300002: Ebimaru_Eye
+    3300004: Ebimaru_Mouth
     4300000: Ebimaru_Mouth
     4300002: Ebimaru_Eye
     4300004: Box001

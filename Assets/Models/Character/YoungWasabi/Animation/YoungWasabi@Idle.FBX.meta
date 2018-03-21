@@ -92,6 +92,7 @@ ModelImporter:
     100168: YoungWasabi
     100170: YoungWasabi_Eye
     100172: YoungWasabi_Mouth
+    100174: Ebimaru_Mouth
     400000: Bip001
     400002: Bip001 FlapL
     400004: Bip001 FlapR
@@ -179,12 +180,18 @@ ModelImporter:
     400168: YoungWasabi
     400170: YoungWasabi_Eye
     400172: YoungWasabi_Mouth
+    400174: Ebimaru_Mouth
     2300000: Box001
+    2300002: Ebimaru_Mouth
+    2300004: YoungWasabi_Mouth
     3300000: Box001
+    3300002: Ebimaru_Mouth
+    3300004: YoungWasabi_Mouth
     4300000: Box001
     4300002: YoungWasabi_Eye
     4300004: YoungWasabi_Mouth
     4300006: YoungWasabi
+    4300008: Ebimaru_Mouth
     7400000: Idle
     9500000: //RootNode
     11100000: //RootNode
